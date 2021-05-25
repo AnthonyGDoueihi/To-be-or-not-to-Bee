@@ -1,0 +1,8 @@
+{
+	"contains_albedo": false,
+	"resolution": 1024,
+	"src": {
+		"a": "res://Assets/HTextures/Ground041_1K_Roughness.png",
+		"rgb": "res://Assets/HTextures/Ground041_1K_Normal.png"
+	}
+}
